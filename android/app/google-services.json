@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928133619291",
+    "firebase_url": "https://fir-grocery-7352e.firebaseio.com",
+    "project_id": "fir-grocery-7352e",
+    "storage_bucket": "fir-grocery-7352e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928133619291:android:e459fb237204eddb28e97e",
+        "android_client_info": {
+          "package_name": "com.bala.firebasewithflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928133619291-017kol9r5i117p9t2598lfo7pgsuob1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2tKpu2no0YykYGuhMdXs-lYhUrM6kiYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928133619291-017kol9r5i117p9t2598lfo7pgsuob1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
